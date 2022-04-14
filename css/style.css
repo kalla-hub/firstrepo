@@ -1,0 +1,9 @@
+body {
+    background-color: burlywood;
+    color: black;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
